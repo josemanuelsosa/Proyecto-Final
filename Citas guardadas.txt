@@ -1,0 +1,13 @@
+A continuacion se mostraran las citas programadas
+
+
+=== Cita numero 1 ===
+Nombre del paciente: jose
+Fecha de la cita: 1212122
+Hora de la cita: 14 hrs
+Tratamiento: Brackets
+Descripcion: no
+Costo unitario de la cita: $5000
+Subtotal: $5050
+Total: $5858
+===========================
